@@ -1,6 +1,9 @@
 # 👨‍💻 Full-Stack Web Developer | Docker Enthusiast | Self-Taught & Always Learning
 
-## Hi there, I am Abhishek 👋, a passionate Web Developer with 2.5 years of experience building full-stack applications. 
+## Hi there, I am Abhishek 👋
+
+## 🧑‍💻 About Me
+I am a passionate Web Developer with 2.5 years of experience building full-stack applications. 
 
 My journey into tech is self-taught, backed by a decade of hands-on experience in mechanical engineering and creative content production — giving me a unique edge in problem-solving and adaptability.
 
@@ -10,11 +13,11 @@ My journey into tech is self-taught, backed by a decade of hands-on experience i
 - **DevOps:** Docker, Ubuntu Server Deployment
 
 ## 🛠️ Projects & Experience
-- 🔭 I’m currently working with Consentium IoT
+- 🔭 I’m currently working with **Consentium IoT**
   Developing dashboards for live sensor data, analytics, and rule engines.  
   *Stack:* Node.js, Express, EJS, MongoDB → transitioning to React
 
-- 📸 Previously with Your StoryTeller Wedding
+- 📸 Previously with **Your StoryTeller Wedding**
   Built a full-stack website with an admin panel for photo uploads.  
   *Stack:* Node.js, Express, EJS, MongoDB
 
