@@ -13,11 +13,11 @@ My journey into tech is self-taught, backed by a decade of hands-on experience i
 - **DevOps:** Docker, Ubuntu Server Deployment
 
 ## 🛠️ Projects & Experience
-- 🔭 I’m currently working with **Consentium IoT**
+- 🔭 I’m currently working with **Consentium IoT**  
   Developing dashboards for live sensor data, analytics, and rule engines.  
   *Stack:* Node.js, Express, EJS, MongoDB → transitioning to React
 
-- 📸 Previously with **Your StoryTeller Wedding**
+- 📸 Previously with **Your StoryTeller Wedding**  
   Built a full-stack website with an admin panel for photo uploads.  
   *Stack:* Node.js, Express, EJS, MongoDB
 
